@@ -1,3 +1,5 @@
+protobuf
+python-dotenv
 discord.py
 yt-dlp
 PyNaCl
